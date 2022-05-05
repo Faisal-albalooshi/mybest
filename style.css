@@ -315,6 +315,10 @@ margin-bottom: 22px;
          transform: translate(-40% ,0px);
          width: 70%;
      }
+             .zz , .ff{
+  transform: translate(-50% , 50%);
+       }
+      
 
 
      .lo{
@@ -375,7 +379,7 @@ margin-bottom: 22px;
 
        .footer{
            width: 400px;
-           height: 400vh;
+           height: 22vh;
        }
          body{
        text-align: content;
