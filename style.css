@@ -302,7 +302,7 @@ margin-bottom: 22px;
 }
 
 
-@media screen and (max-width:550px){
+@media screen and (max-width:375px){
 
      .cis .zz {
         font-size: 1.2rem;
